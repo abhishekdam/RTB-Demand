@@ -1,0 +1,12 @@
+.image_style {
+  margin-left: 30%;
+}
+
+.cross {
+  margin-left: 85%;
+  /* padding-left: 70%; */
+}
+
+.cross:hover {
+  cursor: pointer;
+}
